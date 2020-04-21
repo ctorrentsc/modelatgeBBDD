@@ -1,0 +1,1 @@
+INSERT INTO Muntura values(3, "A")

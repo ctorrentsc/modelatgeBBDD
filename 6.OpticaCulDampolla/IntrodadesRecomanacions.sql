@@ -1,0 +1,1 @@
+INSERT INTO Recomanacions values(3, "familiar", 3)

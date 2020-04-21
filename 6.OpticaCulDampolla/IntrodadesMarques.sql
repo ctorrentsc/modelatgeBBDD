@@ -1,0 +1,1 @@
+INSERT INTO Marques values(8, "SAFEVISION", 2)

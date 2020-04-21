@@ -1,0 +1,1 @@
+INSERT INTO Empleats values(3, "Pep Bou")

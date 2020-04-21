@@ -1,0 +1,1 @@
+INSERT INTO Ulleres values(3, 35.50, "Transp", "Transp", 0, 0, 1, 8, 2)
